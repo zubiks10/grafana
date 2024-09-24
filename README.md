@@ -1,3 +1,4 @@
+
 Installing Grafana in a Kubernetes (K8s) cluster from scratch involves a series of steps. Below is a detailed guide to help you get Grafana up and running.
 
 ### Prerequisites
